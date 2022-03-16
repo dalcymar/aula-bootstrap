@@ -1,0 +1,47 @@
+body {
+    font: 20px bolder Arial, sans-serif;
+}
+
+.navbar {
+    background: #688A08;
+}
+
+.quem-somos {
+    background-color: #8181F7;
+    color: #fff;
+}
+
+#h3-quemsomos {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding: 10px;
+}
+
+
+.parceiros {
+    background-color: #848484;
+}
+
+#h3-parceiros {
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+.servicos {
+    background-color: #0B615E;
+}
+
+#h3-servicos {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.bg-footer {
+    background-color: #0080FF;
+    color: #000;
+}
